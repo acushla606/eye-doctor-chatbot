@@ -3,14 +3,14 @@ This is a chatbot I created for a local eye doctor's website to answer visitors'
 
 ---
 
-# 👁️ Front Range Eye Chatbot Assistant
+# Front Range Eye Chatbot Assistant
 
 A custom AI chatbot created to assist website visitors of **Front Range Eye Physicians – Longmont, CO**.
 Built with [ChatbotBuilder.ai](https://chatbotbuilder.ai), this assistant provides friendly, empathetic, and professional responses to common patient questions related to eye care services.
 
 ---
 
-### 🎯 Purpose
+### Purpose
 
 This chatbot is designed to:
 
@@ -20,7 +20,7 @@ This chatbot is designed to:
 
 ---
 
-### 🧠 Features
+### Features
 
 ✅ Custom Welcome Message
 ✅ Supports **Text and Audio** Input
@@ -30,7 +30,7 @@ This chatbot is designed to:
 
 ---
 
-### 💡 System Prompt (AI Behavior Design)
+### System Prompt (AI Behavior Design)
 
 The assistant is guided to:
 
@@ -43,7 +43,7 @@ The assistant is guided to:
 
 ---
 
-### 🔒 Safety & Reliability
+### Safety & Reliability
 
 To ensure trustworthy and appropriate behavior, the chatbot:
 
@@ -53,7 +53,7 @@ To ensure trustworthy and appropriate behavior, the chatbot:
 
 ---
 
-### 🌍 Tech Stack
+### Tech Stack
 
 * **Platform:** [ChatbotBuilder.ai](https://chatbotbuilder.ai)
 * **Deployment Mode:** In-simulator (not publicly deployed)
@@ -61,16 +61,16 @@ To ensure trustworthy and appropriate behavior, the chatbot:
 
 ---
 
-### 📸 Demo
+### Demo
 
 https://app.chatgptbuilder.io/bots/1570837/sw/?url=https%3A%2F%2Flongmonteyecarevisioncenter.com&config=wWP2CJQuJC6&color=%23950AE6
 
 ---
 
-### 🚀 Future Improvements
+### Future Improvements
 
 None planned at this time.
-This project served as a **learning prototype** and proof of concept; Front Range Eye Physicians relies on a highly trained human scheduling team and will not integrate chatbot automation at this time.
+This project served as a **learning prototype** and proof of concept; Front Range Eye Physicians works with a highly trained human reception team and will most likely not integrate chatbot automation any time soon.
 
 ---
 
